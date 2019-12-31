@@ -4,9 +4,13 @@
         Dim V2 As Single
         Dim V3 As Single
 
+        Dim V4 As Single
+
         V1 = 10
         V2 = 30
         V3 = V1 + V2
+
+        V4 = V3 ^ 2
 
     End Sub
 
